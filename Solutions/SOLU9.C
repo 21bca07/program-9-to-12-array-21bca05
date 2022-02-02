@@ -16,7 +16,7 @@ void main()
 	{
 		printf("\n a[%d]=%d",i,a[i]);
 	}
-		getch();
+	//	getch();
 }
 
 
